@@ -6,7 +6,7 @@ fun main() {
     val ehMaior = true
     val decimalMenor: Float = 2.5f
     val decimalMaior = 2.252334
-
+/*
     val petImutavel = listOf("Cachorro", "Papagaio", "Gato")
 
     when {
@@ -16,4 +16,16 @@ fun main() {
     petImutavel.forEach { bicho ->
         println(bicho)
     }
+
+ */
+
+}
+
+fun meuNome() {
+    meuNomeCompleto("victor", "motta")
+    println("Victor Motta")
+}
+
+fun meuNomeCompleto(nome: String, sobrenome: String) {
+    println("$nome $sobrenome")
 }
