@@ -1,3 +1,5 @@
+package `Primeiras aulas`
+
 fun main() {
     val bichano = Gato()
     bichano.come()

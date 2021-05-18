@@ -1,7 +1,7 @@
 package DH
 
-fun main () {
-    val professorEdu = Professor("Edu",1234)
+fun main() {
+    val professorEdu = Professor("Edu", 1234)
 
     val materiaKotlin = Materia("Aula de Kotlin")
     val aulaKotlin = Aula(materiaKotlin, "19h30", "21h30")
@@ -21,11 +21,11 @@ fun main () {
 
     val turma1 = Turma("Turma 1 de Android", cursoDev)
 
-    turma1.curso.listaDeAlunos.forEach{
+    turma1.curso.listaDeAlunos.forEach {
         println("O nome do aluno é ${it.nome} ${it.sobrenome} e seu RA é ${it.registroAcademico}")
     }
 
-    turma1.curso.listaDeAulas.forEach{
+    turma1.curso.listaDeAulas.forEach {
         println("No ${cursoDev.nomeCurso} você vai ter: ${it.materia.nome}")
     }
 

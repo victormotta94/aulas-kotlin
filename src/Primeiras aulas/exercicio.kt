@@ -1,4 +1,6 @@
-//fun main() {
+package `Primeiras aulas`
+
+//fun `Primeiras aulas`.main() {
 ////    println(maiorNumero(2, 3, 8))
 //    val trab1 = Trabalhador(54, 'M', 40 )
 //    val trab2 = Trabalhador(64, 'F', 31 )

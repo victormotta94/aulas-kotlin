@@ -1,3 +1,5 @@
+package `Primeiras aulas`
+
 fun main(){
     var jogador1 = JogadorDeFutebol("Neymar", 7, 40, 100, 2)
     var jogador2 = JogadorDeFutebol("Ronaldo", 100, 90, 200, 100)

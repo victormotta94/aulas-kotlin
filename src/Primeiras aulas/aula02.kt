@@ -1,12 +1,12 @@
-//fun main() {
-//    val fred = Animal(nome = "Fred", tipo = "Cachorro")
-//    val bichano = Animal(nome = "Bichano", tipo = "gato", reino = "mamífero")
-//    val perebas = Animal(nome = "Perebas", tipo = "rato", tamanho = 15)
+package `Primeiras aulas`//fun `Primeiras aulas`.main() {
+//    val fred = `Primeiras aulas`.Animal(nome = "Fred", tipo = "`Primeiras aulas`.Cachorro")
+//    val bichano = `Primeiras aulas`.Animal(nome = "Bichano", tipo = "gato", reino = "mamífero")
+//    val perebas = `Primeiras aulas`.Animal(nome = "Perebas", tipo = "rato", tamanho = 15)
 //    fred.comer()
 //    fred.sobre()
 //}
 //
-//class Animal(
+//class `Primeiras aulas`.Animal(
 //    val nome: String,
 //    val tipo: String
 //) {

@@ -1,13 +1,14 @@
 package DH
 
-class Aluno (
+class Aluno(
     var nome: String,
     var sobrenome: String,
     var registroAcademico: Long
-        ) {
-    fun assistirAula (){
+) {
+    fun assistirAula() {
 
     }
+
     fun fazerLicao() {
 
     }

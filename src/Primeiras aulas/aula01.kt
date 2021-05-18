@@ -1,3 +1,5 @@
+package `Primeiras aulas`
+
 fun main() {
     val inteiro: Int = 1
     val numeroUltraGrande: Long = 7135767
@@ -7,7 +9,7 @@ fun main() {
     val decimalMenor: Float = 2.5f
     val decimalMaior = 2.252334
 /*
-    val petImutavel = listOf("Cachorro", "Papagaio", "Gato")
+    val petImutavel = listOf("`Primeiras aulas`.Cachorro", "Papagaio", "`Primeiras aulas`.Gato")
 
     when {
         inteiro < 3 -> println("menor que 3")
